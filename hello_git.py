@@ -12,3 +12,4 @@ print("hot-fix:{}".format(a))
 print("main:使用IDEA 从本地库想远程库push代码")
 ~~~~~~~~~~~~~~~
 print("pull test")
+print("new-branch pull test")
